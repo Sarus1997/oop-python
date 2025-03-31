@@ -1,4 +1,4 @@
-# TEST OOP PYTHON
+# OOP PYTHON
 ## Table of Contents
 - [1. Class & Object](#class--object)
 - [2. Inheritance](#inheritance)
